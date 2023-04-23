@@ -27,7 +27,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=ffffff)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=ffffff)
 ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-4B8D3B?style=flat-square&logo=beautifulsoup&logoColor=ffffff)
-![cartopy]([https://img.shields.io/badge/-catorpy-2E2E2E?style=flat-square&logo=python&logoColor=ffffff](https://img.icons8.com/color/48/000000/globe.png)
+![cartopy](https://img.icons8.com/color/48/000000/globe.png=ffffff)
 ![geopandas](https://img.shields.io/badge/-geopandas-150458?style=flat-square&logo=python&logoColor=ffffff)
 
 💻 **IDEs/Editors:**  
