@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there,i'm Patrick 👋
 
-### Hi there 👋, Hi, i'm Patrick
 ![](https://artu)
 
 💻 Pursuing a Master's Degree in Data Science 
