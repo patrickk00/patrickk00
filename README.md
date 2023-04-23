@@ -52,5 +52,16 @@
 ![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickk00)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/patrickkcosta/)
 
