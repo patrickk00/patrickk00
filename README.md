@@ -2,11 +2,15 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickk00)](https://github.com/anuraghazra/github-readme-stats)
 
-🎓 Pursuing a Master's Degree in Data Science from Università degli Studi di Milano-Bicocca
 
-📚 B.Sc. in Economics
 
-📍 Milan, Italy
+🎓 Master's Degree candidate in Data Science at Università degli Studi di Milano-Bicocca
+
+📚 Bachelor's Degree in Economics from Università degli Studi di Milano-Bicocca
+
+🌍 Erasmus exchange student in Košice, Slovakia, studying Banking and Finance from February 2021 to July 2021
+
+📍 Based in Milan, Italy
 
 🌟 **Skills:**
 
