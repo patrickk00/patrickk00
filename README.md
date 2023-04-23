@@ -29,6 +29,12 @@
 ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-4B8D3B?style=flat-square&logo=beautifulsoup&logoColor=ffffff)
 ![cartopy](https://img.icons8.com/color/48/000000/globe.png=ffffff)
 ![geopandas](https://img.shields.io/badge/-geopandas-150458?style=flat-square&logo=python&logoColor=ffffff)
+[![os](https://img.shields.io/badge/-os-05122A?style=flat&logo=windows)](https://docs.python.org/3/library/os.html)
+[![tqdm](https://img.shields.io/badge/-tqdm-05122A?style=flat&logo=tqdm)](https://pypi.org/project/tqdm/)
+[![xarray](https://img.shields.io/badge/-xarray-05122A?style=flat&logo=xarray)](https://docs.xarray.dev/en/stable/)
+[![nc_time_axis](https://img.shields.io/badge/-nc__time__axis-05122A?style=flat&logo=python)](https://nc-time-axis.readthedocs.io/en/stable/)
+[![eofs](https://img.shields.io/badge/-eofs-05122A?style=flat&logo=python)](https://ajdawson.github.io/eofs/latest/)
+[![sompy](https://img.shields.io/badge/-sompy-05122A?style=flat&logo=github)](https://github.com/sevamoo/SOMPY)
 
 💻 **IDEs/Editors:**  
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
