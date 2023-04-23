@@ -2,29 +2,49 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickk00)](https://github.com/anuraghazra/github-readme-stats)
 
-💻 Pursuing a Master's Degree in Data Science 
+🎓 Pursuing a Master's Degree in Data Science from Università degli Studi di Milano-Bicocca
 
-📈 B.Sc. in Economics 
+📚 B.Sc. in Economics
 
-📍 I'm from Italy, living in Milan. 
+📍 Milan, Italy
 
-💡 Open to collaborating on innovative ideas.
+🌟 **Skills:**
 
-Skills: 
+📋 **Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+🖥️ **Libraries:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=ffffff)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=ffffff)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=ffffff)
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-4B8D3B?style=flat-square&logo=beautifulsoup&logoColor=ffffff)
+![catorpy](https://img.shields.io/badge/-catorpy-2E2E2E?style=flat-square&logo=python&logoColor=ffffff)
+![geopandas](https://img.shields.io/badge/-geopandas-150458?style=flat-square&logo=python&logoColor=ffffff)
 
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+💻 **IDEs/Editors:**  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+🛠️ **Tools:** 
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
+![Knime](https://img.shields.io/badge/-Knime-05122A?style=flat&logo=Knime)
 
-![Knime](https://img.shields.io/badge/-Knime-F4C300?style=flat-square&logo=knime&logoColor=white)
+🕓 **Version Control:** 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+💾 **Databases:** 
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/patrickkcosta/)
 
