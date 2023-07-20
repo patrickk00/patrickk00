@@ -4,7 +4,7 @@
 
 
 
-🎓 Master's Degree candidate in Data Science at University of Milano-Bicocca
+🎓 Master's Degree in Data Science at University of Milano-Bicocca
 
 📚 Bachelor's Degree in Economics for Banks, Insurance and Financial Institutions at University of  Milano-Bicocca
 
