@@ -4,21 +4,14 @@
 
 
 
-🎓 Master's Degree in Data Science at University of Milano-Bicocca
+🎓 University of Milano-Bicocca
 
-🌍  Erasmus+ in the first semester of the second year in Université Côte d’Azur, France
+🌍  Université Côte d’Azur, France
 
-
-📚 Bachelor's Degree in Economics for Banks, Insurance and Financial Institutions at University of  Milano-Bicocca
-
-🌍 Erasmus exchange student in Košice, Slovakia, studying Banking and Finance from February 2021 to July 2021
-
-📍 Based in Milan, Italy
+📍  Milan, Italy
 
 
-💻 Technologies & Tools:
 
-Python, SQL, Git, Tableau, KNIME, R, LaTeX
 
 
 
