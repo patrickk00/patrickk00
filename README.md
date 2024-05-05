@@ -24,7 +24,7 @@ Let's connect and explore how we can work together!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickk00)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Harlok's WakaTime stats]([https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs](https://github-readme-stats.vercel.app/api?username=patrickk00))](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats]((https://github-readme-stats.vercel.app/api?username=patrickk00))](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickk00)](https://github.com/anuraghazra/github-readme-statss
