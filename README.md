@@ -25,6 +25,7 @@ Let's connect and explore how we can work together!
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickk00)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/patrickkcosta/)
 
