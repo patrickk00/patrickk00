@@ -28,8 +28,11 @@
   <a href="https://www.linkedin.com/in/patrickkcosta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
   </a>
+  <br><br>
+  <a href="mailto:p.costa7@campus.unimib.it">
+    <img src="https://img.shields.io/badge/Email-p.costa7@campus.unimib.it-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
-
 ---
 
 ### 🛠️ Technologies & Tools
