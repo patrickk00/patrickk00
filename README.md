@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Email-p.costa7@campus.unimib.it-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+
 ---
 
 ### 🛠️ Technologies & Tools
